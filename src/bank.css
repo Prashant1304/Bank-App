@@ -1,0 +1,33 @@
+.header{
+    margin-left: 39%;
+}
+.sign{
+    margin-left: 36%;
+    
+}
+.bottom{
+    margin-left: 40%;
+}
+.button{
+    border:none;
+    background-color: white;
+}
+.button1{
+    color: red;
+    border:none;
+    background-color: white;
+}
+.button2{
+    border:none;
+    color: green;
+    background-color: white;
+}
+.all{ 
+    width: 100%;
+}
+.D{
+    color: green;
+}
+.W{
+    color: red;
+}
